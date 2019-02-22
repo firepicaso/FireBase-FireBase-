@@ -5,6 +5,7 @@ ________________________________________________________________________________
 
 <h2> From atom window click on File >> Settings >> Keybindings >> copy the code for "editor:move-to-previous-subword-boundary" then open the keymap file from file and paste on top and then change the shortcut keys. add the other shortcut keys one after another as shown below  </h2>
 
+<h5> dont copy paste directly from this window </h5>
 
 <h4>'atom-workspace atom-text-editor':</h4>
 <h4>'alt-j': 'editor:move-to-previous-subword-boundary'</h4>
