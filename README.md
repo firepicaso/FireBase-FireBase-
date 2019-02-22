@@ -4,9 +4,9 @@ webapp development
 <h3> Atom keyboard shortcuts </h3>
 <h3> Move cursor UP Down Left Right without arrow keys in Atom </h3>
 ______________________________________________________________________________________________________
-<h2> Setting keyboard shortcuts for fast coding </h2>
+<h3> Setting keyboard shortcuts for fast coding </h3>
 
-<div> From atom window click on File >> keymap >> paste the following code on the top of keymap.cson file. </div>
+<h1 color:red> From atom window click on File >> keymap >> paste the following code on the top of keymap.cson file. </h1>
 
 
 <h4>'atom-workspace atom-text-editor':</h4>
