@@ -1,7 +1,4 @@
-<h1> FireBase!FireBase! </h1>
-webapp development
-
-<h3> Atom keyboard shortcuts </h3>
+<h1> Atom keyboard shortcuts </h1>
 <h3> Move cursor UP Down Left Right without arrow keys in Atom </h3>
 ______________________________________________________________________________________________________
 <h3> Setting keyboard shortcuts for fast coding </h3>
