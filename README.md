@@ -8,19 +8,19 @@ ________________________________________________________________________________
 
 
 <h4>'atom-workspace atom-text-editor':</h4>
-<h4>'alt-j': 'editor:move-to-previous-subword-boundary'</h4>
-<h4>'alt-l': 'editor:move-to-next-subword-boundary'</h4>
-<h4>'shift-j': 'core:move-left'</h4>
-<h4>'shift-l': 'core:move-right'</h4>
-<h4>'shift-i': 'core:move-up'</h4>
-<h4>'shift-k': 'core:move-down'</h4>
-<h4>'shift-u': 'editor:move-to-first-character-of-line'</h4>
-<h4>'shift-o': 'editor:move-to-end-of-screen-line'</h4>
+<h4>'alt-shift-j': 'editor:move-to-previous-subword-boundary'</h4>
+<h4>'alt-shift-l': 'editor:move-to-next-subword-boundary'</h4>
+<h4>'alt-j': 'core:move-left'</h4>
+<h4>'alt-l': 'core:move-right'</h4>
+<h4>'alt-i': 'core:move-up'</h4>
+<h4>'alt-k': 'core:move-down'</h4>
+<h4>'alt-u': 'editor:move-to-first-character-of-line'</h4>
+<h4>'alt-o': 'editor:move-to-end-of-screen-line'</h4>
 
   
 ______________________________________________________________________________________________________
 
 <h5> Now see the magic ! </h5>
-<h5> Shift + (i, k, j, l) is normal movement just as UP Down Left Right respectively </h5>
-<h5> Shift + (u, o) works as Home and End which moves the cursor to the beginning of the sentence or the end </h5>
-<h5>  and finally alt + (j, l) moves the cursor subword-wise left or right </h5>
+<h5> alt + (i, k, j, l) is normal movement just as UP Down Left Right respectively </h5>
+<h5> alt + (u, o) works as Home and End which moves the cursor to the beginning of the sentence or the end </h5>
+<h5>  and finally alt + shift + (j, l) moves the cursor subword-wise left or right </h5>
