@@ -6,7 +6,7 @@ webapp development
 ______________________________________________________________________________________________________
 <h3> Setting keyboard shortcuts for fast coding </h3>
 
-<h1> From atom window click on File >> keymap >> paste the following code on the top of keymap.cson file. </h1>
+<h1> From atom window click on File >> keymap >> paste the following code on the top of keymap.cson file. and save it </h1>
 
 
 <h4>'atom-workspace atom-text-editor':</h4>
