@@ -21,3 +21,8 @@ ________________________________________________________________________________
 
   
 ______________________________________________________________________________________________________
+
+<h5> Now see the magic ! </h5>
+<h5> Shift + (i, k, j, l) is normal movement just as UP Down Left Right respectively </h5>
+<h5> Shift + (u, o) works as Home and End which moves the cursor to the beginning of the sentence or the end </h5>
+<h5>  and finally alt + (j, l) moves the cursor subword-wise left or right </h5>
